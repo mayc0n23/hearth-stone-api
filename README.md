@@ -9,5 +9,3 @@ Este é um projeto maven, portanto importe-o como projeto maven.
 O banco de dados usado nessa API é o MySQL, vá para o arquivo application.properties no projeto e mude suas credenciais de acesso ao banco (url, username e password).
 
 Documentação da API, contém as collections de testes usadas durante o desenvolvimento: https://documenter.getpostman.com/view/9219349/TVsxA6LW
-
-Por favor, vá para a branch master!
